@@ -9,7 +9,7 @@ My name is Emmanuel and im a self taught web developer
 - 📫 How to reach me: ...
    Emmanuelmwiingaixii@gmail.com
 - ⚡ Fun fact about me ...
-   I watch too much anime for my own sake
+   I watch too much anime for my own sake and im a huge epic the musical fan 
 <!--
 **Emmanuelmwiinga/Emmanuelmwiinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
